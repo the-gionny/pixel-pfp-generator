@@ -2,4 +2,4 @@
 
 Create custom Pixel pfp with custom size and colors.
 
-![alt text](img.png)
+![alt text](images/6fFbMmiLX0.png)
